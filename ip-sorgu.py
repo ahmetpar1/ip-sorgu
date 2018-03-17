@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import urllib.request
 
 baglan = urllib.request.urlopen("http://icanhazip.com/")
